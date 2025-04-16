@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a **Full Stack Developer** and a final-year **B.Tech C
   - **Employee Management System**
   - **Wanderlust (Hotel Booking App)**
   - **Adventure Abode**
-- 🏆 Winner at **Research Scholar Day** for presenting the **Gamified Coding Platform** – awarded a **Certificate 🧾 and Medal 🏅**
+- 🏆 Winner at **Research Scholar Day** for presenting the **Gamified Coding Platform** – awarded a **Certificate 🧾 and Medal �**
 - 🎓 Pursuing B.Tech in Computer Engineering @ DY Patil University | **CGPA: 9.8**
 - 🎯 Passionate about creating tech that educates, entertains, and empowers others
 
@@ -39,6 +39,15 @@ Welcome to my GitHub! I'm a **Full Stack Developer** and a final-year **B.Tech C
 
 ## 🚀 Featured Projects
 
+### 🎮 BTech Gamer (Gamified Coding Platform)
+An interactive coding platform that makes learning fun with game mechanics like points, battles, rankings, and tournaments.
+
+- Includes 1v1/2v2/4v4 battles, coding challenges, and aptitude rounds  
+- Tiered ranking system (Bronze → Crown → Conqueror)  
+- Real-time features, friend list, achievements, and gamified UI
+
+---
+
 ### 🔧 Last Night Engineering  
 🗓️ *March 2025 – Present*  
 📎 [Website](https://lne.onrender.com/)  
@@ -52,6 +61,7 @@ A full-stack freelancing platform that provides academic/technical services, not
 
 ### 📊 Employee Management System  
 🗓️ *January 2025*  
+📎 [Live Demo](https://employee-management-system-byrudra.netlify.app/)  
 A React-based EMS that helps manage employees, assign tasks, and track performance – all without a backend!
 
 - Used **React Context API** and **localStorage** for persistence  
@@ -62,6 +72,7 @@ A React-based EMS that helps manage employees, assign tasks, and track performan
 
 ### 🏨 Wanderlust  
 🗓️ *January 2024 – March 2024*  
+📎 [Live Demo](https://testwonder.vercel.app/)  
 A responsive hotel booking web app with features like room listing and exploration. Built using `HTML`, `CSS`, `JS`, `Bootstrap`, `Express.js`, and `MongoDB`.
 
 - Implemented **MVC Architecture** for clean separation of logic  
@@ -80,4 +91,4 @@ A responsive hotel booking web app with features like room listing and explorati
 
 ---
 
-Thanks for stopping by! Let’s build something awesome together. 💡✨
+Thanks for stopping by! Let's build something awesome together. 💡✨
